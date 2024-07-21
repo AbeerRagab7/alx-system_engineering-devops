@@ -1,0 +1,33 @@
+total 128
+drwxrwxr-x 2 vagrant vagrant 4096 Jul 11 12:09 .
+drwxrwxr-x 6 vagrant vagrant 4096 Jul 11 12:00 ..
+-rwxrw-r-- 1 vagrant vagrant   32 Jul 11 12:00 0-hello_world
+-rwxrw-r-- 1 vagrant vagrant   28 Jul 11 12:00 1-confused_smiley
+-rw-rw-r-- 1 vagrant vagrant   49 Jul 11 12:00 10-no_more_js
+-rw-rw-r-- 1 vagrant vagrant   56 Jul 11 12:00 100-empty_casks
+-rw-rw-r-- 1 vagrant vagrant  107 Jul 11 12:00 101-gifs
+-rw-rw-r-- 1 vagrant vagrant   38 Jul 11 12:00 102-acrostic
+-rw-rw-r-- 1 vagrant vagrant  115 Jul 11 12:00 103-the_biggest_fan
+-rw-rw-r-- 1 vagrant vagrant   50 Jul 11 12:00 11-directories
+-rw-rw-r-- 1 vagrant vagrant   32 Jul 11 12:00 12-newest_files
+-rw-rw-r-- 1 vagrant vagrant   27 Jul 11 12:00 13-unique
+-rw-rw-r-- 1 vagrant vagrant   39 Jul 11 12:00 14-findthatword
+-rw-rw-r-- 1 vagrant vagrant   41 Jul 11 12:00 15-countthatword
+-rw-rw-r-- 1 vagrant vagrant   44 Jul 11 12:00 16-whatsnext
+-rw-rw-r-- 1 vagrant vagrant   41 Jul 11 12:00 17-hidethisword
+-rw-rw-r-- 1 vagrant vagrant   50 Jul 11 12:00 18-letteronly
+-rw-rw-r-- 1 vagrant vagrant   36 Jul 11 12:00 19-AZ
+-rwxrw-r-- 1 vagrant vagrant   28 Jul 11 12:00 2-hellofile
+-rw-rw-r-- 1 vagrant vagrant   23 Jul 11 12:00 20-hiago
+-rw-rw-r-- 1 vagrant vagrant   16 Jul 11 12:00 21-reverse
+-rw-rw-r-- 1 vagrant vagrant   49 Jul 11 12:00 22-users_and_homes
+-rwxrw-r-- 1 vagrant vagrant   39 Jul 11 12:00 3-twofiles
+-rwxrw-r-- 1 vagrant vagrant   35 Jul 11 12:00 4-lastlines
+-rwxrw-r-- 1 vagrant vagrant   35 Jul 11 12:00 5-firstlines
+-rwxrw-r-- 1 vagrant vagrant   40 Jul 11 12:00 6-third_line
+-rwxrw-r-- 1 vagrant vagrant   99 Jul 11 12:00 7-file
+-rwxrw-r-- 1 vagrant vagrant   36 Jul 11 12:00 8-cwd_state
+-rw-rw-r-- 1 vagrant vagrant   37 Jul 11 12:00 9-duplicate_last_line
+-rw-rw-r-- 1 vagrant vagrant 5447 Jul 11 12:00 README.md
+-rw-rw-r-- 1 vagrant vagrant   12 Jul 11 12:08 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 vagrant vagrant    0 Jul 11 12:09 ls_cwd_content
