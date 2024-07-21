@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Create a new file named school in a text editor and add the following line to it:
+# 0 string SCHOOL
+echo '0 string SCHOOL' > school
+
+# Save the file as school.mgc
+file -C -m school.mgc school
+
+# Test the magic file by running the file command with the -m option and the name of a file that contains the string "SCHOOL" at offset 0:
+cp /bin/ls .
+touch thisisaschoolfile
+touch thisisatextfile
+file --mime-type -m school.mgc *
+file -m school.mgc *
