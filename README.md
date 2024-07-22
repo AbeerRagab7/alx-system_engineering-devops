@@ -77,19 +77,22 @@ git clone https://github.com/Abeer-M-Ali/[Github project directory]
 1. [0x06-regular_expressions](./0x06-regular_expressions)
 1. [0x07-networking_basics](./0x07-networking_basics)
 1. [0x08-networking_basics_2](./0x08-networking_basics_2)
-1. [Command line for the win](./command_line_for_the_win)
-1. [0x08-web_stack_debugging_0](./0x08-web_stack_debugging_0)
 1. [0x09-web_infrastructure_design](./0x09-web_infrastructure_design)
-<!--. 1 [0x0A-configuration_management](./0x0A-configuration_management)
-1. [0x0B-ssh](./0x0A-ssh)
-1. [0x0C-web_server](./0x0B-web_server)
+1. [0x0A-configuration_management](./0x0A-configuration_management)
+1. [0x0B-ssh](./0x0B-ssh)
+1. [0x0C-web_server](./0x0C-web_server)
 1. [0x0E-web_stack_debugging_1](./0x0E-web_stack_debugging_1)
 1. [0x0D-load_balancer](./0x0F-load_balancer)
 1. [0x10-https_ssl](./0x10-https_ssl)
 1. [0x11-what_happens_when_your_type_holbertonschool_com_in_your_browser_and_press_enter](./0x11-what_happens_when_your_type_holbertonschool_com_in_your_browser_and_press_enter)
 1. [0x12-web_stack_debugging_2](./0x12-web_stack_debugging_2)
 1. [0x13-firewall](./0x13-firewall)
-1. [0x14-mysql](./0x14-mysql) -->
+1. [0x14-mysql](./0x14-mysql)
+2. [0x15-api](./0x15-api)
+3. [0x16-api_advanced](./0x16-api_advanced)
+4. [0x17-web_stack_debugging_3](./0x17-web_stack_debugging_3)
+5. [0x18-webstack_monitoring](./0x18-webstack_monitoring)
+6. [attack_is_the_best_defense](./attack_is_the_best_defense)
 
 ## Author 
 
